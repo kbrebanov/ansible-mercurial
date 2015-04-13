@@ -1,2 +1,5 @@
 ---
 # vars file for mercurial
+
+mercurial_packages:
+  - mercurial

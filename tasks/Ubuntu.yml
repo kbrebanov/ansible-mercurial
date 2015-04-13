@@ -1,0 +1,7 @@
+---
+# tasks file for mercurial (Ubuntu specific)
+
+- name: Install mercurial packages
+  apt: name={{ item }} state=present install_recommends=no update_cache=yes
+  with_items: mercurial_packages
+  tags: mercurial
