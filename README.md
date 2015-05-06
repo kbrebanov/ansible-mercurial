@@ -1,6 +1,8 @@
 mercurial
 =========
 
+[![Ansible Galaxy](https://img.shields.io/badge/galaxy-kbrebanov.mercurial-660198.svg)](https://galaxy.ansible.com/list#/roles/3409)
+
 Installs mercurial.
 
 Requirements
