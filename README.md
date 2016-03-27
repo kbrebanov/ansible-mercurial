@@ -1,7 +1,7 @@
 mercurial
 =========
 
-[![Ansible Role](https://img.shields.io/ansible/role/3409.svg)](https://galaxy.ansible.com/list#/roles/3409)
+[![Build Status](https://travis-ci.org/kbrebanov/ansible-mercurial.svg?branch=master)](https://travis-ci.org/kbrebanov/ansible-mercurial)
 
 Installs mercurial.
 
