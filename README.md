@@ -8,7 +8,7 @@ Installs mercurial.
 Requirements
 ------------
 
-This role requires Ansible 1.4 or higher.
+This role requires Ansible 1.9 or higher.
 
 Role Variables
 --------------
@@ -27,7 +27,7 @@ Install mercurial
 ```
 - hosts: all
   roles:
-    - { role: kbrebanov.mercurial }
+    - kbrebanov.mercurial
 ```
 
 License
